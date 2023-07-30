@@ -1,0 +1,8 @@
+--study
+1-twilindcss
+2-motion librarie with react 
+
+
+--revision 
+1-react router 
+2-react useEffect 
